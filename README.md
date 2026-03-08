@@ -41,11 +41,13 @@ I'm an **Undergrate Student🎓 [@ Stony Brook University (SBU)]([(https://stony
 ![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=000000)
 ![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
 
+
 ### Cloud & DevOps & Systems
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
+<!--
 ## 🏅 Certificates
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
 - [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
@@ -57,11 +59,13 @@ I'm an **Undergrate Student🎓 [@ Stony Brook University (SBU)]([(https://stony
 - [IBM Blockchain Foundation Developer V2 Certified](https://www.credly.com/badges/3f046a2f-0701-4dd3-9ed6-eef01bfcc540)
 - [IBM Big Data Foundations - Level 2](https://www.credly.com/badges/2f4f2e6b-dbf5-42e9-b6d7-1e446d0cd703)
 - [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/7cb43b8b-2640-451f-b5ac-5b16650622e7)'
+
  
 ## 🗂️ Highlight Projects
 <a href="https://github.com/Zhenye-Na/DA-RNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
+-->
 
 ## 📊 Quick Stats
 <p align="center">
