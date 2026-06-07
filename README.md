@@ -5,7 +5,7 @@
 ![Hi there](./1.gif)
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a ** Graduate Student🎓 [@ New York University (NYU)]([(https://cds.nyu.edu/masters-in-data-science-overview/)])** majoring in Data Science. I just graduated from [@ Stony Brook University (SBU)]([(https://stonybrook.edu/)])** majoring in Applied Mathematics and Statistics, minoring in Finance. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm a **Graduate Student🎓 [@ New York University (NYU)]([(https://cds.nyu.edu/masters-in-data-science-overview/)])** majoring in Data Science. I just graduated from **[@ Stony Brook University (SBU)]([(https://stonybrook.edu/)])** majoring in Applied Mathematics and Statistics, minoring in Finance. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 - Ask me about **Machine learning, Deep Learning, Computer Vision, and Natural Language Programming**   
 - Skating and skiing
 - Mountain Climbing and hiking
@@ -21,9 +21,9 @@ I'm a ** Graduate Student🎓 [@ New York University (NYU)]([(https://cds.nyu.ed
 ### Languages
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&color=ED8B00)
-![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&color=00599C)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&color=336791)
 ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=276DC3)
+<!--    ![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&color=00599C)     -->
 
 ### Tools
 ![MATLAB](https://img.shields.io/badge/Tool-MATLAB-informational?style=flat&logo=mathworks&color=0076A8)
@@ -36,16 +36,19 @@ I'm a ** Graduate Student🎓 [@ New York University (NYU)]([(https://cds.nyu.ed
 ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&color=11557C)
 ![Seaborn](https://img.shields.io/badge/Library-Seaborn-informational?style=flat&color=4C72B0)
 ![Scikit--learn](https://img.shields.io/badge/Library-Scikit--learn-informational?style=flat&logo=scikit-learn&color=F7931E)
-![OpenCV](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=opencv&color=5C3EE8)
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)
+<!--
+![OpenCV](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=opencv&color=5C3EE8)
 ![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=000000)
 ![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
+-->
 
-
+<!--
 ### Cloud & DevOps & Systems
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+-->
 
 <!--
 ## 🏅 Certificates
