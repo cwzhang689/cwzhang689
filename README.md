@@ -5,8 +5,8 @@
 ![Hi there](./1.gif)
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrate Student🎓 [@ Stony Brook University (SBU)]([(https://stonybrook.edu/)])** majoring in Applied Mathematics and Statistics, minoring in Finance. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
-- Ask me about **Machine learning, Deep Learning, Computer Vision, and Natural Language Programming**
+I'm a ** Graduate Student🎓 [@ New York University (NYU)]([(https://cds.nyu.edu/masters-in-data-science-overview/)])** majoring in Data Science. I was just graduated from [@ Stony Brook University (SBU)]([(https://stonybrook.edu/)])** majoring in Applied Mathematics and Statistics, minoring in Finance. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+- Ask me about **Machine learning, Deep Learning, Computer Vision, and Natural Language Programming**   
 - Skating and skiing
 - Mountain Climbing and hiking
 - Watch anime 
